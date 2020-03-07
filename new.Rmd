@@ -203,7 +203,7 @@ Let’s start by finding the most common plaintiffs.
 ``` {r}
 debt %>% 
   count(iss_plaint) %>% 
-  777
+  
   arrange(desc(n))  
 ```
 
