@@ -19,7 +19,7 @@ library(knitr)
 
 ggkrkle
 nc <- function(x) {comma(x, digits = 0)}
-
+eelrlfm
 ```
 
 Background information: Why are we researching this topic? What is the expected product? A blog post? Analysis for an internal or external partner?
