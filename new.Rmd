@@ -1,7 +1,7 @@
 ---
 title: "Project Name"
 author:
-  - Author's Name, Job Title
+  - Leticia, Job Title
   - Open Justice Oklahoma
 date: "`r Sys.Date()`"
 output:
