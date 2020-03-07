@@ -233,7 +233,7 @@ To get the most common plaintiffs that are not classified yet:
 debt %>%
   filter(plaint_type == "UNKNOWN") %>% 
   count(iss_plaint) %>% 
-  arrange(desc(n)) 
+  arrange(desc(n))
 ```
 
 I came up with the following classification:
